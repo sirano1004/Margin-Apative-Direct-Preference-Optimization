@@ -36,7 +36,7 @@ The table below provides the precise mean reward scores for each method and data
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[sitano1004]/Margin-Apative-Direct-Preference-Optimization.git
+    git clone https://github.com/sirano1004/Margin-Apative-Direct-Preference-Optimization.git
     cd MADPO
     ```
 
