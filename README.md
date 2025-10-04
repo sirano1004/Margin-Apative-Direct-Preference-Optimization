@@ -14,7 +14,7 @@ We provide a comprehensive theoretical analysis, proving that MADPO has a well-b
 
 Our experiments show that MADPO consistently and significantly outperforms standard baselines across all three data quality tiers. The chart below visualizes the main findings, with annotations highlighting the percentage improvement over the next-best method, `β`-DPO.
 
-![Main Results Chart](figure/model_performance_chart_sorted.png)
+![Main Results Chart](figures/model_performance_chart_sorted.png)
 
 The key takeaways from our results are:
 - **Superior Performance**: MADPO achieves the highest average reward in all settings.
